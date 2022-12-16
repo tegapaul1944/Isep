@@ -15,7 +15,7 @@ public class Main {
     public static void game() {
         //SI TOUS LES HEROS MEURENT, FIN DE LA PARTIE
         //Introduction
-        System.out.println("LINK START ! Bienvenue sur Mini RPG Lite 300. ");
+        System.out.println("LINK START ! Bienvenue sur Mini RPG Lite 3000. ");
         System.out.println("* Vous arrivez devant une immense tour... *");
         System.out.println("* Elle semble gardée par une vieux mage... *");
         System.out.println("* Celui-ci décide de s'approche de vous... *");
